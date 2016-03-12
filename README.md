@@ -2,6 +2,7 @@
 
 Let's make an interactive bar chart using JavaScript
 
+
 ####First things first
 
 * [Highcharts](http://www.highcharts.com/) (lots of parameters to make minor changes) 
@@ -38,3 +39,4 @@ Design a chart to allow readers to compare all groups’ responses of 1 or 2 to 
 
 ![The finished product](js-bar-chart.jpg)
 
+_First taught at NICAR 201, Denver_
