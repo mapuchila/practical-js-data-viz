@@ -8,7 +8,9 @@ Let's make an interactive bar chart using JavaScript
 * [Google Charts](https://developers.google.com/chart/) (robust but constantly changing)
 * [D3](https://d3js.org/) (steep learning curve)
 
-**So why JavaScript? Actually, it’s jQuery, a JavaScript library with simpler syntax and less code than plain ol' JavaScript**
+**So why JavaScript? Actually, it’s [jQuery](https://jquery.com/), a JavaScript library with simpler syntax and less code than plain ol' JavaScript**
+
+Hosted jQuery: [http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js](http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js)
 
 _jQuery_
 ```javascript
@@ -30,7 +32,8 @@ A pollster administered an online survey and collected 19,999 sets of responses
 to eight questions. Participants were assigned to one of seven groups and could
 answer 1, 2, or 0 (No Response) to each question.
 ￼￼￼￼
-**The goal: ** Design a chart to allow readers to compare all groups’ responses of 1 or 2 to all eight questions
+**The goal:** 
+Design a chart to allow readers to compare all groups’ responses of 1 or 2 to all eight questions
 
 #####Working with PivotTables in Excel
 
