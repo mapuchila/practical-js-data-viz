@@ -39,4 +39,4 @@ Design a chart to allow readers to compare all groups’ responses of 1 or 2 to 
 
 ![The finished product](js-bar-chart.jpg)
 
-_First taught at NICAR 201, Denver_
+_First taught at NICAR 2016, Denver by [Dana Amihere](https://twitter.com/write_this_way)_
