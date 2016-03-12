@@ -36,7 +36,7 @@ answer 1, 2, or 0 (No Response) to each question.
 **The goal:** 
 Design a chart to allow readers to compare all groups’ responses of 1 or 2 to all eight questions
 
-![The finished product](https://github.com/write-this-way/practical-js-data-viz/js-bar-chart.png)
+![The finished product](js-bar-chart.png)
 
 #####Working with PivotTables in Excel
 
