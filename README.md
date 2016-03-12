@@ -4,11 +4,11 @@ Let's make an interactive bar chart using JavaScript
 
 ####First things first
 
-* Highcharts (lots of parameters to make minor changes) 
-* Google Charts (hard to customize/brand)
-* D3 (steep learning curve)
+* [Highcharts](http://www.highcharts.com/) (lots of parameters to make minor changes) 
+* [Google Charts](https://developers.google.com/chart/) (robust but constantly changing)
+* [D3](https://d3js.org/) (steep learning curve)
 
-So why JavaScript? Actually, it’s jQuery, a JavaScript library with simpler syntax and less code than plain ol' JavaScript
+**So why JavaScript? Actually, it’s jQuery, a JavaScript library with simpler syntax and less code than plain ol' JavaScript**
 
 _jQuery_
 ```javascript
@@ -24,5 +24,31 @@ Document.body.style.background = color;
 Onload = "changeBackground('red');"
 ```
 
+####Let's get crackin'
+
+A pollster administered an online survey and collected 19,999 sets of responses
+to eight questions. Participants were assigned to one of seven groups and could
+answer 1, 2, or 0 (No Response) to each question.
 ￼￼￼￼
-￼￼
+**The goal: ** Design a chart to allow readers to compare all groups’ responses of 1 or 2 to all eight questions
+
+#####Working with PivotTables in Excel
+
+#####Building the bones
+
+**PART 1**
+
+**PART 2**
+
+**PART 3**
+
+#####Adding interactivity and dynamic data
+
+**PART 4**
+
+**PART 5**
+
+#####Animation and finishing touches
+
+**PART 6**
+
